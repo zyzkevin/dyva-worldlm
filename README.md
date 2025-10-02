@@ -14,3 +14,15 @@
 - [ ] Inference Demo
 - [ ] Full Training Code (DyVA)
 - [ ] Pre-trained Weights (Base & Large Model Sizes)
+
+```
+@misc{zhang2025worldmodelsbenefitvlms,
+      title={Can World Models Benefit VLMs for World Dynamics?}, 
+      author={Kevin Zhang and Kuangzhi Ge and Xiaowei Chi and Renrui Zhang and Shaojun Shi and Zhen Dong and Sirui Han and Shanghang Zhang},
+      year={2025},
+      eprint={2510.00855},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2510.00855}, 
+}
+```
