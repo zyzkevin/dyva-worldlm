@@ -7,7 +7,7 @@
 
 \* Equal Contribution | † Corresponding Author
 
-[`Project Page`](https://dyva-worldlm.github.io/) | [`Paper`](https://example.com/paper-link-coming-soon) (Coming Soon) | [`BibTeX`](#citation) (Coming Soon)
+[`Project Page`](https://dyva-worldlm.github.io/) | [`Paper`](https://arxiv.org/abs/2510.00855) 
 
 ### Catalog
 
